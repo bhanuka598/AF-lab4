@@ -1,2 +1,6 @@
-# AF-lab4
-Application Framework lab 4 - Introduction to NodeJS and GitHub flow
+# Lab 03 – NodeJS
+
+Basic Node.js app with GitHub branching and collaboration.
+
+Run:
+node app.js
